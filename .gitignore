@@ -1,0 +1,9 @@
+#Intellij
+.idea/
+
+#Gradle
+.gradle/
+HELP.md
+build/
+out/
+
